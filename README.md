@@ -1,4 +1,3 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14883814.svg)](https://doi.org/10.5281/zenodo.14883814)
 # Limited Effectiveness of LLM-based Data Augmentation for COVID-19 Misinformation Stance Detection
 
 The repository contains scripts and data used in the paper [Limited Effectiveness of LLM-based Data Augmentation for COVID-19 Misinformation Stance Detection](https://doi.org/10.1145/3701716.3715521).
