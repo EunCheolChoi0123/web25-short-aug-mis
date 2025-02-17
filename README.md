@@ -20,12 +20,12 @@ Script Descriptions:
 
 This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). By using this dataset, you agree to abide by the stipulations in the license, remain in compliance with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), Meta's [Llama 2 Community License Agreement](https://ai.meta.com/llama/license/), Tongyi Qianwen's [License Agreement](https://github.com/QwenLM/Qwen/blob/main/Tongyi%20Qianwen%20LICENSE%20AGREEMENT), and OpenAI's [Terms of Use](https://openai.com/policies/terms-of-use), and cite the following manuscript: 
 
-Eun Cheol Choi, Ashwin Balasubramanian, Jinhu Qi, Emilio Ferrara. 2025. Limited efficiency of LLM-generated data augmentation in COVID-19 misinformation stance detection. In Companion Proceedings of the ACM Web Conference 2025 (WWW ’25 Companion), Apr 28–May 2, 2025, Sydney, Australia. ACM, New York, NY, USA, 4 pages. https://doi.org/10.1145/3701716.3715521
+Eun Cheol Choi, Ashwin Balasubramanian, Jinhu Qi, Emilio Ferrara. 2025. Limited effectiveness of LLM-based data augmentation for COVID-19 misinformation stance detection. In Companion Proceedings of the ACM Web Conference 2025 (WWW ’25 Companion), Apr 28–May 2, 2025, Sydney, Australia. ACM, New York, NY, USA, 4 pages. https://doi.org/10.1145/3701716.3715521
 
 BibTeX:
 ```bibtex
 @inproceedings{choi2025limited,
-  title={Limited efficiency of LLM-generated data augmentation in COVID-19 misinformation stance detection},
+  title={Limited effectiveness of LLM-based data augmentation for COVID-19 misinformation stance detection},
   author={Choi, Eun Cheol and Balasubramanian, Ashwin and Qi, Jinhu and Ferrara, Emilio},
   booktitle={Companion Proceedings of the ACM on Web Conference 2025},
   year={2025}
